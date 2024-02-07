@@ -1,3 +1,3 @@
-# Projetos em javaScript
+# Projeto em JavScript
 
-## Modulo basico 
+# modulo basico
