@@ -1,0 +1,20 @@
+var nome = "Laura"
+var banco = "itau"
+var agencia =55
+var numero_conta =6543
+var saldo =300
+
+console.log("bom dia",nome,"sua conta do banco itau com numero",numero_conta,"é de saldo:",saldo)
+
+console.log("bom dia laura você recebeu um pix de 80 r$")
+console.log(saldo+= 80)
+console.log("bom dia laura você recebeu um pix de 30 r$")
+console.log(saldo+= 30)
+console.log("bom dia laura você recebeu um pix de 90 r$")
+console.log(saldo+= 90)
+console.log("bom dia laura você depositou um pix de 50 r$")
+console.log(saldo-= 50)
+console.log("bom dia laura você depositou um pix de 70 r$")
+console.log(saldo-= 70)
+
+console.log("bom dia", nome,"sua conta do banco itau com numero",numero_conta, "é de saldo:",saldo)
