@@ -27,3 +27,8 @@ var minhavariavel = 20;
 var outravariavel = 20;
 const _minhaconstante = 3.1514;
 var $minhavariavel = 11;
+
+var v1 =10
+var v2 = 3 
+console.log("................................");
+console.log("Valores: v1" = , v1, * | v2 =* 
