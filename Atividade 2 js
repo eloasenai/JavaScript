@@ -1,0 +1,48 @@
+// ex.01
+var nome = "Eloa";
+var nasc = "2007";
+
+console.log("A aluna", nome, "nasceu em", nasc);
+
+var idade = 2024 - nasc;
+
+console.log(nome, "tem", idade, "anos");
+
+console.log("--------------------------------------");
+//ex.02
+var x = 12;
+var y = 6;
+console.log(" a area do retangulo é", x * y + "cm");
+
+console.log("--------------------------------------");
+//ex.03
+
+var dimenssao = 5;
+var volume = dimenssao ** 3;
+
+console.log("o volume é de :", volume,"cm³");
+
+console.log("--------------------------------------")
+// ex.o4
+
+var a = 2
+var b = 3
+var c = -1
+console.log(" delta é igual a", b*b - 4 * a * c);
+
+
+//.........................................................
+//ex.05
+var compra = 450 
+var desconto = 3/100 //    0.03
+var valdesc = compra * desconto 
+console.log (" comprar de R$" + compra + " - desconto: R$" + valdesc )
+
+console.log("----------------------------------------------");
+// ex.06 
+var x = 3.5
+var y = 95
+
+console.log("a distancia percorida é", y/x )
+
+
