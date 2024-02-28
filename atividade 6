@@ -1,0 +1,9 @@
+var idade = 13;
+
+if (idade >= 16) console.log(`A pessoa pode votar`);
+
+if (idade <= 16) console.log(`A pessoa não pode votar`);
+
+if (idade >= 18) console.log(`é obrigatorio`);
+
+console.log("--------------------------------------------------");
