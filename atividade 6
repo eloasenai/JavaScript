@@ -1,4 +1,4 @@
-var idade = 13;
+var idade = 20 ;
 
 if (idade >= 16) console.log(`A pessoa pode votar`);
 

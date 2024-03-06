@@ -1,18 +1,18 @@
 //implementação de condicional
 
-var menuSelecionado = "Home"
+var menuSelecionado = "home";
+
 switch(menuSelecionado) {
-   case "Home" :
-   console.log(`você clicou no link Home`)
-    break; 
-case "Quem Somos"
-   console.log(`Você clicou no link Quem somos`)
+   case "home":
+     console.log(`voce clicou no link home`)
+   break; 
+   case "quem somos":
+   console.log(`voce clicou no link quem somos`)
    break;
-case " Contato":
+   case " Contato":
    console.log(`Você clicou no link Contato`)
    break
- default
+ default:
    console.log(`Opção invalida`)
   break
 }
-//-----------------------------------------------
